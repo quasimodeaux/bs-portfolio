@@ -1,8 +1,8 @@
-body{ background: url('../images/1.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color: #060607;  
-font-family: Source Sans Pro, sans-serif;font-weight:200; padding-bottom:50px; }
+body{ background: url('../images/1.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color: #060607;
+font-family: Lato, sans-serif;font-weight:200; padding-bottom:50px; }
 .image { background-color:rgba(255, 255, 255, 0.075);  border-radius:100%; margin: 20px auto; padding:10px; border: 1px solid #C7C7D0; margin-top:50px;}
 
-h1 {  font-family: Source Sans Pro, sans-serif; color: #414141; margin:10px auto;font-weight:bold; width:70%; line-height:1.5;}
+h1 {  font-family: Lato, sans-serif; color: #414141; margin:5px auto;font-weight:bold; width:70%; line-height:1.5;font-size: 24px;}
 
 .socialmedia a { background-color:rgba(0,0,0,0.7); text-decoration: none; font-size:16pt; transition:.5s all;
 color:#C7C7D0; border:1px solid #C7C7D0; width:50px; height:50px; display: inline-block; padding:10px; border-radius:50%; }
@@ -11,9 +11,9 @@ color:#C7C7D0; border:1px solid #C7C7D0; width:50px; height:50px; display: inlin
 
 div.tripple { width:364px; display: inline-block; text-align: center; vertical-align: top; }
 
-.boximg { color:#FFF; background-color:rgba(255, 255, 255, 0.3); width:346px; height:auto; margin:20px auto; border:1px solid #C7C7D0; border-radius:5px; overflow: hidden;  transition: 0.5s all;}
+.boximg { color:#FFF; background-color:rgba(200, 200, 200, 0.7); width:346px; height:auto; margin:20px auto; border:1px solid #C7C7D0; border-radius:5px; overflow: hidden;  transition: 0.5s all;}
 .boximg img { width:346px; height:auto;margin-bottom:0px;  }
-.boximg p { min-height:50px; display:block; padding-top:10px; text-align:cente;color: #020202;font-weight:200;font-size:15px; font-family:Impact; }
+.boximg p { min-height:50px; display:block; padding-top:10px; text-align:center;color: #020202;font-weight:550;font-size:15px; font-family:Lato, sans-serif; }
 
 .boximg:hover { box-shadow:0 0 20px #333333; border:1px solid #FFF;}
 .footer { color: #FFFFFF; font-size:11pt; }
