@@ -12,7 +12,7 @@ color:#C7C7D0; border:1px solid #C7C7D0; width:50px; height:50px; display: inlin
 div.tripple { width:364px; display: inline-block; text-align: center; vertical-align: top; }
 
 .boximg { color:#FFF; background-color:rgba(200, 200, 200, 0.7); width:346px; height:auto; margin:20px auto; border:1px solid #C7C7D0; border-radius:5px; overflow: hidden;  transition: 0.5s all;}
-.boximg img { width:346px; height:auto;margin-bottom:0px;  }
+.boximg img { width:425px; height:auto;margin-bottom:0px;  }
 .boximg p { min-height:50px; display:block; padding-top:10px; text-align:center;color: #020202;font-weight:550;font-size:15px; font-family:Lato, sans-serif; }
 
 .boximg:hover { box-shadow:0 0 20px #333333; border:1px solid #FFF;}
